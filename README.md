@@ -1,7 +1,7 @@
 # EdgeDepth: Intelligent Depth Estimation on Edge Platforms
 
 ## Overview
-This repository contains the code and data associated with the paper titled "Title of Your Paper". This paper explores [brief description of your paper].
+This repository contains the code and data associated with the paper titled "EdgeDepth: Intelligent Depth Estimation on Edge Platforms".
 
 ## Table of Contents
 - [Installation](#installation)
