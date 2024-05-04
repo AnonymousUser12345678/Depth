@@ -11,8 +11,18 @@ This repository contains the code and data associated with the paper titled "Edg
   conda activate depth
   pip install wandb
 ```
+### Data Preparation
 
-- [Usage](#usage)
+
+## Training
+
+## Testing
+### Performance
+
+### Energy
+
+### Time
+
 - [Data](#data)
 - [Code](#code)
 - [Figures](#figures)
