@@ -7,9 +7,10 @@ This repository contains the code and data associated with the paper titled "Edg
 ## [Installation]
 
 ```bash
-conda create env -f env.yml
+  conda create env -f env.yml
+  conda activate depth
+  pip install wandb
 ```
-
 
 - [Usage](#usage)
 - [Data](#data)
