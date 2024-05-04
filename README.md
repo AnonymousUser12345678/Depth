@@ -13,6 +13,11 @@ This repository contains the code and data associated with the paper titled "Edg
 ```
 ### Data Preparation
 
+KITTI
+| https://www.cvlibs.net/datasets/kitti/
+
+COCO2017
+| https://cocodataset.org/#home
 
 ## Training
 
