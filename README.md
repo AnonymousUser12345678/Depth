@@ -3,8 +3,11 @@
 ## Overview
 This repository contains the code and data associated with the paper titled "EdgeDepth: Intelligent Depth Estimation on Edge Platforms".
 
-## Table of Contents
-- [Installation](#installation)
+
+## [Installation]
+  conda create env -f env.yml
+
+  
 - [Usage](#usage)
 - [Data](#data)
 - [Code](#code)
