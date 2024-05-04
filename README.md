@@ -5,9 +5,12 @@ This repository contains the code and data associated with the paper titled "Edg
 
 
 ## [Installation]
-  conda create env -f env.yml
 
-  
+```bash
+conda create env -f env.yml
+```
+
+
 - [Usage](#usage)
 - [Data](#data)
 - [Code](#code)
