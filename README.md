@@ -11,7 +11,7 @@ This repository contains the code and data associated with the paper titled "Edg
   conda activate depth
   pip install wandb
 ```
-### Data Preparation
+### [Data Preparation]
 
 KITTI
 | https://www.cvlibs.net/datasets/kitti/
@@ -19,14 +19,17 @@ KITTI
 COCO2017
 | https://cocodataset.org/#home
 
-## Training
+Data default path: ~/dataset/
 
-## Testing
-### Performance
+## [Training]
 
-### Energy
 
-### Time
+## [Testing]
+### [Performance]
+
+### [Energy]
+
+### [Time]
 
 - [Data](#data)
 - [Code](#code)
